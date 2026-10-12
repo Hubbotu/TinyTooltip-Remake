@@ -1,6 +1,7 @@
 ## Interface: 120100
 ## Title: TinyTooltip-Remake
 ## Notes: A powerful tooltip enhancement addon based on TinyTooltip.
+## Notes-ruRU: Мощный аддон для улучшения всплывающих подсказок на базе TinyTooltip.
 ## Author: 星野绫-罗宁 CN
 ## Version: 1.6.10
 ## OptionalDeps: DialogueUI, LiteMount
